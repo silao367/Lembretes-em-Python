@@ -11,4 +11,4 @@ def lembrete():
 
 while True:
     lembrete()
-    time.sleep(3600)    
+    time.sleep(1000)    
